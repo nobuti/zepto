@@ -1,8 +1,9 @@
 .DS_Store
-dist/
-dist/zepto.min.js
-dist/zepto.js
 pkg
+examples/
+script/
+vendor/
+test/
 *.swp
 docs/*
 .jhw-cache
